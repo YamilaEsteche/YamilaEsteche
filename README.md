@@ -1,8 +1,8 @@
 Mi perfil en linkedin www.linkedin.com/in/yamila-esteche
 
-Trabajo desarrollando en Deplhi 👩‍💻
+Trabajo desarrollando en Delphi 👩‍💻
 
-Estudio en la UTN de San Rafael Mendoza, Tecnicatura Universitaria en Programación 🎒
+Estudio en la UTN de San Rafael Mendoza,la Tecnicatura Universitaria en Programación 🎒
 
 Aprendiendo a desarrollar en Java, JavaScrip y Python 
 
