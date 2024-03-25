@@ -6,4 +6,4 @@ Estudio en la UTN de San Rafael Mendoza, la Tecnicatura Universitaria en Program
 
 Aprendiendo a desarrollar en Java, JavaScrip y Python 
 
-me gustan los michis 🐈‍⬛😺
+
